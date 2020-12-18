@@ -1,0 +1,7043 @@
+resolution_m: 0.050000
+numberofangles: 16
+totalnumberofprimitives: 880
+primID: 0
+start_pose_disc: 0 0 0
+end_pose_disc: -1 0 0
+additionalactioncostmult: 0.0500
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.0250 -0.0000 -3.1416
+-0.0500 -0.0000 -3.1416
+primID: 1
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 2
+start_pose_disc: 0 0 2
+end_pose_disc: -1 -1 2
+additionalactioncostmult: 0.0707
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.0250 -0.0250 -2.3562
+-0.0500 -0.0500 -2.3562
+primID: 3
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 4
+start_pose_disc: 0 0 4
+end_pose_disc: 0 -1 4
+additionalactioncostmult: 0.0500
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 -0.0250 -1.5708
+0.0000 -0.0500 -1.5708
+primID: 5
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 6
+start_pose_disc: 0 0 6
+end_pose_disc: 1 -1 6
+additionalactioncostmult: 0.0707
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0250 -0.0250 -0.7854
+0.0500 -0.0500 -0.7854
+primID: 7
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 8
+start_pose_disc: 0 0 8
+end_pose_disc: 1 0 8
+additionalactioncostmult: 0.0500
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0250 0.0000 0.0000
+0.0500 0.0000 0.0000
+primID: 9
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 10
+start_pose_disc: 0 0 10
+end_pose_disc: 1 1 10
+additionalactioncostmult: 0.0707
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0250 0.0250 0.7854
+0.0500 0.0500 0.7854
+primID: 11
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 12
+start_pose_disc: 0 0 12
+end_pose_disc: 0 1 12
+additionalactioncostmult: 0.0500
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0250 1.5708
+0.0000 0.0500 1.5708
+primID: 13
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 14
+start_pose_disc: 0 0 14
+end_pose_disc: -1 1 14
+additionalactioncostmult: 0.0707
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.0250 0.0250 2.3562
+-0.0500 0.0500 2.3562
+primID: 15
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 16
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 17
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 18
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 19
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 20
+start_pose_disc: 0 0 0
+end_pose_disc: -2 0 0
+additionalactioncostmult: 0.1000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.0500 -0.0000 -3.1416
+-0.1000 -0.0000 -3.1416
+primID: 21
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 22
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 23
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 24
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 25
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 26
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 27
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 28
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 29
+start_pose_disc: 0 0 1
+end_pose_disc: -2 -1 1
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.0500 -0.0250 -2.6779
+-0.1000 -0.0500 -2.6779
+primID: 30
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 31
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 32
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 33
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 34
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 35
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 36
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 37
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 38
+start_pose_disc: 0 0 2
+end_pose_disc: -2 -2 2
+additionalactioncostmult: 0.1414
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.0500 -0.0500 -2.3562
+-0.1000 -0.1000 -2.3562
+primID: 39
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 40
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 41
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 42
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 43
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 44
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 45
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 46
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 47
+start_pose_disc: 0 0 3
+end_pose_disc: -1 -2 3
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0250 -0.0500 -2.0344
+-0.0500 -0.1000 -2.0344
+primID: 48
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 49
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 50
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 51
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 52
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 53
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 54
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 55
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 56
+start_pose_disc: 0 0 4
+end_pose_disc: 0 -2 4
+additionalactioncostmult: 0.1000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 -0.0500 -1.5708
+0.0000 -0.1000 -1.5708
+primID: 57
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 58
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 59
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 60
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 61
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 62
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 63
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 64
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 65
+start_pose_disc: 0 0 5
+end_pose_disc: 1 -2 5
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0250 -0.0500 -1.1071
+0.0500 -0.1000 -1.1071
+primID: 66
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 67
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 68
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 69
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 70
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 71
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 72
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 73
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 74
+start_pose_disc: 0 0 6
+end_pose_disc: 2 -2 6
+additionalactioncostmult: 0.1414
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0500 -0.0500 -0.7854
+0.1000 -0.1000 -0.7854
+primID: 75
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 76
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 77
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 78
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 79
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 80
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 81
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 82
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 83
+start_pose_disc: 0 0 7
+end_pose_disc: 2 -1 7
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0500 -0.0250 -0.4636
+0.1000 -0.0500 -0.4636
+primID: 84
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 85
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 86
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 87
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 88
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 89
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 90
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 91
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 92
+start_pose_disc: 0 0 8
+end_pose_disc: 2 0 8
+additionalactioncostmult: 0.1000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0500 0.0000 0.0000
+0.1000 0.0000 0.0000
+primID: 93
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 94
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 95
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 96
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 97
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 98
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 99
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 100
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 101
+start_pose_disc: 0 0 9
+end_pose_disc: 2 1 9
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0500 0.0250 0.4636
+0.1000 0.0500 0.4636
+primID: 102
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 103
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 104
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 105
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 106
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 107
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 108
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 109
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 110
+start_pose_disc: 0 0 10
+end_pose_disc: 2 2 10
+additionalactioncostmult: 0.1414
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0500 0.0500 0.7854
+0.1000 0.1000 0.7854
+primID: 111
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 112
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 113
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 114
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 115
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 116
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 117
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 118
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 119
+start_pose_disc: 0 0 11
+end_pose_disc: 1 2 11
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0250 0.0500 1.1071
+0.0500 0.1000 1.1071
+primID: 120
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 121
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 122
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 123
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 124
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 125
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 126
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 127
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 128
+start_pose_disc: 0 0 12
+end_pose_disc: 0 2 12
+additionalactioncostmult: 0.1000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0500 1.5708
+0.0000 0.1000 1.5708
+primID: 129
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 130
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 131
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 132
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 133
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 134
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 135
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 136
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 137
+start_pose_disc: 0 0 13
+end_pose_disc: -1 2 13
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0250 0.0500 2.0344
+-0.0500 0.1000 2.0344
+primID: 138
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 139
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 140
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 141
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 142
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 143
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 144
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 145
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 146
+start_pose_disc: 0 0 14
+end_pose_disc: -2 2 14
+additionalactioncostmult: 0.1414
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.0500 0.0500 2.3562
+-0.1000 0.1000 2.3562
+primID: 147
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 148
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 149
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 150
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 151
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 152
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 153
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 154
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 155
+start_pose_disc: 0 0 15
+end_pose_disc: -2 1 15
+additionalactioncostmult: 0.1118
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.0500 0.0250 2.6779
+-0.1000 0.0500 2.6779
+primID: 156
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 157
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 158
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 159
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 160
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 161
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 162
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 163
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 164
+start_pose_disc: 0 0 0
+end_pose_disc: -4 -1 1
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1029 -0.0133 -2.8967
+-0.2000 -0.0500 -2.6779
+primID: 165
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 166
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 167
+start_pose_disc: 0 0 0
+end_pose_disc: -4 0 0
+additionalactioncostmult: 0.2000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1000 -0.0000 -3.1416
+-0.2000 -0.0000 -3.1416
+primID: 168
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 169
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 170
+start_pose_disc: 0 0 0
+end_pose_disc: -4 1 15
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1029 0.0133 2.8967
+-0.2000 0.0500 2.6779
+primID: 171
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 172
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 173
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 174
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 175
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 176
+start_pose_disc: 0 0 1
+end_pose_disc: -4 -4 3
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1162 -0.0838 -2.3562
+-0.2000 -0.2000 -2.0344
+primID: 177
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 178
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 179
+start_pose_disc: 0 0 1
+end_pose_disc: -4 -3 2
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1060 -0.0669 -2.4981
+-0.2000 -0.1500 -2.3562
+primID: 180
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 181
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 182
+start_pose_disc: 0 0 1
+end_pose_disc: -4 -2 1
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1000 -0.0500 -2.6779
+-0.2000 -0.1000 -2.6779
+primID: 183
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 184
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 185
+start_pose_disc: 0 0 1
+end_pose_disc: -4 -1 0
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.0971 -0.0367 -2.8967
+-0.2000 -0.0500 -3.1416
+primID: 186
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 187
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 188
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 189
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 190
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 191
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 192
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 193
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 194
+start_pose_disc: 0 0 2
+end_pose_disc: -3 -4 3
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.0831 -0.0940 -2.2143
+-0.1500 -0.2000 -2.0344
+primID: 195
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 196
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 197
+start_pose_disc: 0 0 2
+end_pose_disc: -4 -4 2
+additionalactioncostmult: 0.2828
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1000 -0.1000 -2.3562
+-0.2000 -0.2000 -2.3562
+primID: 198
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 199
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 200
+start_pose_disc: 0 0 2
+end_pose_disc: -4 -3 1
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.0940 -0.0831 -2.4981
+-0.2000 -0.1500 -2.6779
+primID: 201
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 202
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 203
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 204
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 205
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 206
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 207
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 208
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 209
+start_pose_disc: 0 0 3
+end_pose_disc: -1 -4 4
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0367 -0.0971 -1.8157
+-0.0500 -0.2000 -1.5708
+primID: 210
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 211
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 212
+start_pose_disc: 0 0 3
+end_pose_disc: -2 -4 3
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0500 -0.1000 -2.0344
+-0.1000 -0.2000 -2.0344
+primID: 213
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 214
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 215
+start_pose_disc: 0 0 3
+end_pose_disc: -3 -4 2
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0669 -0.1060 -2.2143
+-0.1500 -0.2000 -2.3562
+primID: 216
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 217
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 218
+start_pose_disc: 0 0 3
+end_pose_disc: -4 -4 1
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0838 -0.1162 -2.3562
+-0.2000 -0.2000 -2.6779
+primID: 219
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 220
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 221
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 222
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 223
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 224
+start_pose_disc: 0 0 4
+end_pose_disc: 1 -4 5
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0133 -0.1029 -1.3259
+0.0500 -0.2000 -1.1071
+primID: 225
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 226
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 227
+start_pose_disc: 0 0 4
+end_pose_disc: 0 -4 4
+additionalactioncostmult: 0.2000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 -0.1000 -1.5708
+0.0000 -0.2000 -1.5708
+primID: 228
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 229
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 230
+start_pose_disc: 0 0 4
+end_pose_disc: -1 -4 3
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0133 -0.1029 -1.8157
+-0.0500 -0.2000 -2.0344
+primID: 231
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 232
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 233
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 234
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 235
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 236
+start_pose_disc: 0 0 5
+end_pose_disc: 4 -4 7
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0838 -0.1162 -0.7854
+0.2000 -0.2000 -0.4636
+primID: 237
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 238
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 239
+start_pose_disc: 0 0 5
+end_pose_disc: 3 -4 6
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0669 -0.1060 -0.9273
+0.1500 -0.2000 -0.7854
+primID: 240
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 241
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 242
+start_pose_disc: 0 0 5
+end_pose_disc: 2 -4 5
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0500 -0.1000 -1.1071
+0.1000 -0.2000 -1.1071
+primID: 243
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 244
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 245
+start_pose_disc: 0 0 5
+end_pose_disc: 1 -4 4
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0367 -0.0971 -1.3259
+0.0500 -0.2000 -1.5708
+primID: 246
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 247
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 248
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 249
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 250
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 251
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 252
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 253
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 254
+start_pose_disc: 0 0 6
+end_pose_disc: 4 -3 7
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0940 -0.0831 -0.6435
+0.2000 -0.1500 -0.4636
+primID: 255
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 256
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 257
+start_pose_disc: 0 0 6
+end_pose_disc: 4 -4 6
+additionalactioncostmult: 0.2828
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1000 -0.1000 -0.7854
+0.2000 -0.2000 -0.7854
+primID: 258
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 259
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 260
+start_pose_disc: 0 0 6
+end_pose_disc: 3 -4 5
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0831 -0.0940 -0.9273
+0.1500 -0.2000 -1.1071
+primID: 261
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 262
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 263
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 264
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 265
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 266
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 267
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 268
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 269
+start_pose_disc: 0 0 7
+end_pose_disc: 4 -1 8
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0971 -0.0367 -0.2449
+0.2000 -0.0500 0.0000
+primID: 270
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 271
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 272
+start_pose_disc: 0 0 7
+end_pose_disc: 4 -2 7
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1000 -0.0500 -0.4636
+0.2000 -0.1000 -0.4636
+primID: 273
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 274
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 275
+start_pose_disc: 0 0 7
+end_pose_disc: 4 -3 6
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1060 -0.0669 -0.6435
+0.2000 -0.1500 -0.7854
+primID: 276
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 277
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 278
+start_pose_disc: 0 0 7
+end_pose_disc: 4 -4 5
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1162 -0.0838 -0.7854
+0.2000 -0.2000 -1.1071
+primID: 279
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 280
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 281
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 282
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 283
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 284
+start_pose_disc: 0 0 8
+end_pose_disc: 4 1 9
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1029 0.0133 0.2449
+0.2000 0.0500 0.4636
+primID: 285
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 286
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 287
+start_pose_disc: 0 0 8
+end_pose_disc: 4 0 8
+additionalactioncostmult: 0.2000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1000 0.0000 0.0000
+0.2000 0.0000 0.0000
+primID: 288
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 289
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 290
+start_pose_disc: 0 0 8
+end_pose_disc: 4 -1 7
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1029 -0.0133 -0.2449
+0.2000 -0.0500 -0.4636
+primID: 291
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 292
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 293
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 294
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 295
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 296
+start_pose_disc: 0 0 9
+end_pose_disc: 4 4 11
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1162 0.0838 0.7854
+0.2000 0.2000 1.1071
+primID: 297
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 298
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 299
+start_pose_disc: 0 0 9
+end_pose_disc: 4 3 10
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1060 0.0669 0.6435
+0.2000 0.1500 0.7854
+primID: 300
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 301
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 302
+start_pose_disc: 0 0 9
+end_pose_disc: 4 2 9
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1000 0.0500 0.4636
+0.2000 0.1000 0.4636
+primID: 303
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 304
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 305
+start_pose_disc: 0 0 9
+end_pose_disc: 4 1 8
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0971 0.0367 0.2449
+0.2000 0.0500 0.0000
+primID: 306
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 307
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 308
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 309
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 310
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 311
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 312
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 313
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 314
+start_pose_disc: 0 0 10
+end_pose_disc: 3 4 11
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0831 0.0940 0.9273
+0.1500 0.2000 1.1071
+primID: 315
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 316
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 317
+start_pose_disc: 0 0 10
+end_pose_disc: 4 4 10
+additionalactioncostmult: 0.2828
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1000 0.1000 0.7854
+0.2000 0.2000 0.7854
+primID: 318
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 319
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 320
+start_pose_disc: 0 0 10
+end_pose_disc: 4 3 9
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0940 0.0831 0.6435
+0.2000 0.1500 0.4636
+primID: 321
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 322
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 323
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 324
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 325
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 326
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 327
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 328
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 329
+start_pose_disc: 0 0 11
+end_pose_disc: 1 4 12
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0367 0.0971 1.3259
+0.0500 0.2000 1.5708
+primID: 330
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 331
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 332
+start_pose_disc: 0 0 11
+end_pose_disc: 2 4 11
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0500 0.1000 1.1071
+0.1000 0.2000 1.1071
+primID: 333
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 334
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 335
+start_pose_disc: 0 0 11
+end_pose_disc: 3 4 10
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0669 0.1060 0.9273
+0.1500 0.2000 0.7854
+primID: 336
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 337
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 338
+start_pose_disc: 0 0 11
+end_pose_disc: 4 4 9
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0838 0.1162 0.7854
+0.2000 0.2000 0.4636
+primID: 339
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 340
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 341
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 342
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 343
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 344
+start_pose_disc: 0 0 12
+end_pose_disc: -1 4 13
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0133 0.1029 1.8157
+-0.0500 0.2000 2.0344
+primID: 345
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 346
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 347
+start_pose_disc: 0 0 12
+end_pose_disc: 0 4 12
+additionalactioncostmult: 0.2000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.1000 1.5708
+0.0000 0.2000 1.5708
+primID: 348
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 349
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 350
+start_pose_disc: 0 0 12
+end_pose_disc: 1 4 11
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0133 0.1029 1.3259
+0.0500 0.2000 1.1071
+primID: 351
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 352
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 353
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 354
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 355
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 356
+start_pose_disc: 0 0 13
+end_pose_disc: -4 4 15
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0838 0.1162 2.3562
+-0.2000 0.2000 2.6779
+primID: 357
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 358
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 359
+start_pose_disc: 0 0 13
+end_pose_disc: -3 4 14
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0669 0.1060 2.2143
+-0.1500 0.2000 2.3562
+primID: 360
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 361
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 362
+start_pose_disc: 0 0 13
+end_pose_disc: -2 4 13
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0500 0.1000 2.0344
+-0.1000 0.2000 2.0344
+primID: 363
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 364
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 365
+start_pose_disc: 0 0 13
+end_pose_disc: -1 4 12
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0367 0.0971 1.8157
+-0.0500 0.2000 1.5708
+primID: 366
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 367
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 368
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 369
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 370
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 371
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 372
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 373
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 374
+start_pose_disc: 0 0 14
+end_pose_disc: -4 3 15
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.0940 0.0831 2.4981
+-0.2000 0.1500 2.6779
+primID: 375
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 376
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 377
+start_pose_disc: 0 0 14
+end_pose_disc: -4 4 14
+additionalactioncostmult: 0.2828
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1000 0.1000 2.3562
+-0.2000 0.2000 2.3562
+primID: 378
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 379
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 380
+start_pose_disc: 0 0 14
+end_pose_disc: -3 4 13
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.0831 0.0940 2.2143
+-0.1500 0.2000 2.0344
+primID: 381
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 382
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 383
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 384
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 385
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 386
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 387
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 388
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 389
+start_pose_disc: 0 0 15
+end_pose_disc: -4 1 0
+additionalactioncostmult: 0.2080
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.0971 0.0367 2.8967
+-0.2000 0.0500 -3.1416
+primID: 390
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 391
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 392
+start_pose_disc: 0 0 15
+end_pose_disc: -4 2 15
+additionalactioncostmult: 0.2236
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1000 0.0500 2.6779
+-0.2000 0.1000 2.6779
+primID: 393
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 394
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 395
+start_pose_disc: 0 0 15
+end_pose_disc: -4 3 14
+additionalactioncostmult: 0.2511
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1060 0.0669 2.4981
+-0.2000 0.1500 2.3562
+primID: 396
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 397
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 398
+start_pose_disc: 0 0 15
+end_pose_disc: -4 4 13
+additionalactioncostmult: 0.2878
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1162 0.0838 2.3562
+-0.2000 0.2000 2.0344
+primID: 399
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 400
+start_pose_disc: 0 0 0
+end_pose_disc: -6 -2 1
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1554 -0.0324 -2.8201
+-0.3000 -0.1000 -2.6779
+primID: 401
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 402
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 403
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 404
+start_pose_disc: 0 0 0
+end_pose_disc: -6 -1 1
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1532 -0.0076 -2.9762
+-0.3000 -0.0500 -2.6779
+primID: 405
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 406
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 407
+start_pose_disc: 0 0 0
+end_pose_disc: -6 0 0
+additionalactioncostmult: 0.3000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1500 -0.0000 -3.1416
+-0.3000 -0.0000 -3.1416
+primID: 408
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 409
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 410
+start_pose_disc: 0 0 0
+end_pose_disc: -6 1 15
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1532 0.0076 2.9762
+-0.3000 0.0500 2.6779
+primID: 411
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 412
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 413
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 414
+start_pose_disc: 0 0 0
+end_pose_disc: -6 2 15
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.1554 0.0324 2.8201
+-0.3000 0.1000 2.6779
+primID: 415
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -5 2
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1599 -0.1127 -2.4470
+-0.3000 -0.2500 -2.3562
+primID: 416
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -5 3
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1708 -0.1011 -2.4463
+-0.3000 -0.2500 -2.0344
+primID: 417
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 418
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 419
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -4 2
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1582 -0.0880 -2.5535
+-0.3000 -0.2000 -2.3562
+primID: 420
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -4 3
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1674 -0.0765 -2.5523
+-0.3000 -0.2000 -2.0344
+primID: 421
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 422
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -3 1
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1500 -0.0750 -2.6779
+-0.3000 -0.1500 -2.6779
+primID: 423
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 424
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 425
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -2 0
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1446 -0.0676 -2.8201
+-0.3000 -0.1000 -3.1416
+primID: 426
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 427
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 428
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 429
+start_pose_disc: 0 0 1
+end_pose_disc: -6 -1 0
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1468 -0.0424 -2.9762
+-0.3000 -0.0500 -3.1416
+primID: 430
+start_pose_disc: 0 0 2
+end_pose_disc: -4 -6 3
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1120 -0.1418 -2.1589
+-0.2000 -0.3000 -2.0344
+primID: 431
+start_pose_disc: 0 0 2
+end_pose_disc: -4 -6 4
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1308 -0.1316 -2.1569
+-0.2000 -0.3000 -1.5708
+primID: 432
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 433
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 434
+start_pose_disc: 0 0 2
+end_pose_disc: -5 -6 3
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1373 -0.1401 -2.2654
+-0.2500 -0.3000 -2.0344
+primID: 435
+start_pose_disc: 0 0 2
+end_pose_disc: -5 -6 4
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1567 -0.1275 -2.2626
+-0.2500 -0.3000 -1.5708
+primID: 436
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 437
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -6 2
+additionalactioncostmult: 0.4243
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1500 -0.1500 -2.3562
+-0.3000 -0.3000 -2.3562
+primID: 438
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 439
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -5 0
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1275 -0.1567 -2.4498
+-0.3000 -0.2500 -3.1416
+primID: 440
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -5 1
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1401 -0.1373 -2.4470
+-0.3000 -0.2500 -2.6779
+primID: 441
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 442
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 443
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -4 0
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1316 -0.1308 -2.5555
+-0.3000 -0.2000 -3.1416
+primID: 444
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -4 1
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1418 -0.1120 -2.5535
+-0.3000 -0.2000 -2.6779
+primID: 445
+start_pose_disc: 0 0 3
+end_pose_disc: -1 -6 4
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0424 -0.1468 -1.7362
+-0.0500 -0.3000 -1.5708
+primID: 446
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 447
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 448
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 449
+start_pose_disc: 0 0 3
+end_pose_disc: -2 -6 4
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0676 -0.1446 -1.8922
+-0.1000 -0.3000 -1.5708
+primID: 450
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 451
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 452
+start_pose_disc: 0 0 3
+end_pose_disc: -3 -6 3
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0750 -0.1500 -2.0344
+-0.1500 -0.3000 -2.0344
+primID: 453
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 454
+start_pose_disc: 0 0 3
+end_pose_disc: -4 -6 1
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0765 -0.1674 -2.1601
+-0.2000 -0.3000 -2.6779
+primID: 455
+start_pose_disc: 0 0 3
+end_pose_disc: -4 -6 2
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0880 -0.1582 -2.1589
+-0.2000 -0.3000 -2.3562
+primID: 456
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 457
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 458
+start_pose_disc: 0 0 3
+end_pose_disc: -5 -6 1
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1011 -0.1708 -2.2661
+-0.2500 -0.3000 -2.6779
+primID: 459
+start_pose_disc: 0 0 3
+end_pose_disc: -5 -6 2
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1127 -0.1599 -2.2654
+-0.2500 -0.3000 -2.3562
+primID: 460
+start_pose_disc: 0 0 4
+end_pose_disc: 2 -6 5
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0324 -0.1554 -1.2493
+0.1000 -0.3000 -1.1071
+primID: 461
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 462
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 463
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 464
+start_pose_disc: 0 0 4
+end_pose_disc: 1 -6 5
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0076 -0.1532 -1.4054
+0.0500 -0.3000 -1.1071
+primID: 465
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 466
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 467
+start_pose_disc: 0 0 4
+end_pose_disc: 0 -6 4
+additionalactioncostmult: 0.3000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 -0.1500 -1.5708
+0.0000 -0.3000 -1.5708
+primID: 468
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 469
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 470
+start_pose_disc: 0 0 4
+end_pose_disc: -1 -6 3
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0076 -0.1532 -1.7362
+-0.0500 -0.3000 -2.0344
+primID: 471
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 472
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 473
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 474
+start_pose_disc: 0 0 4
+end_pose_disc: -2 -6 3
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0324 -0.1554 -1.8922
+-0.1000 -0.3000 -2.0344
+primID: 475
+start_pose_disc: 0 0 5
+end_pose_disc: 5 -6 6
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1127 -0.1599 -0.8762
+0.2500 -0.3000 -0.7854
+primID: 476
+start_pose_disc: 0 0 5
+end_pose_disc: 5 -6 7
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1011 -0.1708 -0.8755
+0.2500 -0.3000 -0.4636
+primID: 477
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 478
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 479
+start_pose_disc: 0 0 5
+end_pose_disc: 4 -6 6
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0880 -0.1582 -0.9827
+0.2000 -0.3000 -0.7854
+primID: 480
+start_pose_disc: 0 0 5
+end_pose_disc: 4 -6 7
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0765 -0.1674 -0.9815
+0.2000 -0.3000 -0.4636
+primID: 481
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 482
+start_pose_disc: 0 0 5
+end_pose_disc: 3 -6 5
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0750 -0.1500 -1.1071
+0.1500 -0.3000 -1.1071
+primID: 483
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 484
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 485
+start_pose_disc: 0 0 5
+end_pose_disc: 2 -6 4
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0676 -0.1446 -1.2493
+0.1000 -0.3000 -1.5708
+primID: 486
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 487
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 488
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 489
+start_pose_disc: 0 0 5
+end_pose_disc: 1 -6 4
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0424 -0.1468 -1.4054
+0.0500 -0.3000 -1.5708
+primID: 490
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -4 7
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1418 -0.1120 -0.5881
+0.3000 -0.2000 -0.4636
+primID: 491
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -4 8
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1316 -0.1308 -0.5861
+0.3000 -0.2000 0.0000
+primID: 492
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 493
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 494
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -5 7
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1401 -0.1373 -0.6946
+0.3000 -0.2500 -0.4636
+primID: 495
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -5 8
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1275 -0.1567 -0.6918
+0.3000 -0.2500 0.0000
+primID: 496
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 497
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -6 6
+additionalactioncostmult: 0.4243
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1500 -0.1500 -0.7854
+0.3000 -0.3000 -0.7854
+primID: 498
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 499
+start_pose_disc: 0 0 6
+end_pose_disc: 5 -6 4
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1567 -0.1275 -0.8790
+0.2500 -0.3000 -1.5708
+primID: 500
+start_pose_disc: 0 0 6
+end_pose_disc: 5 -6 5
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1373 -0.1401 -0.8762
+0.2500 -0.3000 -1.1071
+primID: 501
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 502
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 503
+start_pose_disc: 0 0 6
+end_pose_disc: 4 -6 4
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1308 -0.1316 -0.9847
+0.2000 -0.3000 -1.5708
+primID: 504
+start_pose_disc: 0 0 6
+end_pose_disc: 4 -6 5
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1120 -0.1418 -0.9827
+0.2000 -0.3000 -1.1071
+primID: 505
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -1 8
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1468 -0.0424 -0.1654
+0.3000 -0.0500 0.0000
+primID: 506
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 507
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 508
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 509
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -2 8
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1446 -0.0676 -0.3214
+0.3000 -0.1000 0.0000
+primID: 510
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 511
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 512
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -3 7
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1500 -0.0750 -0.4636
+0.3000 -0.1500 -0.4636
+primID: 513
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 514
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -4 5
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1674 -0.0765 -0.5893
+0.3000 -0.2000 -1.1071
+primID: 515
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -4 6
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1582 -0.0880 -0.5881
+0.3000 -0.2000 -0.7854
+primID: 516
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 517
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 518
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -5 5
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1708 -0.1011 -0.6953
+0.3000 -0.2500 -1.1071
+primID: 519
+start_pose_disc: 0 0 7
+end_pose_disc: 6 -5 6
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1599 -0.1127 -0.6946
+0.3000 -0.2500 -0.7854
+primID: 520
+start_pose_disc: 0 0 8
+end_pose_disc: 6 2 9
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1554 0.0324 0.3214
+0.3000 0.1000 0.4636
+primID: 521
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 522
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 523
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 524
+start_pose_disc: 0 0 8
+end_pose_disc: 6 1 9
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1532 0.0076 0.1654
+0.3000 0.0500 0.4636
+primID: 525
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 526
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 527
+start_pose_disc: 0 0 8
+end_pose_disc: 6 0 8
+additionalactioncostmult: 0.3000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1500 0.0000 0.0000
+0.3000 0.0000 0.0000
+primID: 528
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 529
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 530
+start_pose_disc: 0 0 8
+end_pose_disc: 6 -1 7
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1532 -0.0076 -0.1654
+0.3000 -0.0500 -0.4636
+primID: 531
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 532
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 533
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 534
+start_pose_disc: 0 0 8
+end_pose_disc: 6 -2 7
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.1554 -0.0324 -0.3214
+0.3000 -0.1000 -0.4636
+primID: 535
+start_pose_disc: 0 0 9
+end_pose_disc: 6 5 10
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1599 0.1127 0.6946
+0.3000 0.2500 0.7854
+primID: 536
+start_pose_disc: 0 0 9
+end_pose_disc: 6 5 11
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1708 0.1011 0.6953
+0.3000 0.2500 1.1071
+primID: 537
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 538
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 539
+start_pose_disc: 0 0 9
+end_pose_disc: 6 4 10
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1582 0.0880 0.5881
+0.3000 0.2000 0.7854
+primID: 540
+start_pose_disc: 0 0 9
+end_pose_disc: 6 4 11
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1674 0.0765 0.5893
+0.3000 0.2000 1.1071
+primID: 541
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 542
+start_pose_disc: 0 0 9
+end_pose_disc: 6 3 9
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1500 0.0750 0.4636
+0.3000 0.1500 0.4636
+primID: 543
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 544
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 545
+start_pose_disc: 0 0 9
+end_pose_disc: 6 2 8
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1446 0.0676 0.3214
+0.3000 0.1000 0.0000
+primID: 546
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 547
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 548
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 549
+start_pose_disc: 0 0 9
+end_pose_disc: 6 1 8
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1468 0.0424 0.1654
+0.3000 0.0500 0.0000
+primID: 550
+start_pose_disc: 0 0 10
+end_pose_disc: 4 6 11
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1120 0.1418 0.9827
+0.2000 0.3000 1.1071
+primID: 551
+start_pose_disc: 0 0 10
+end_pose_disc: 4 6 12
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1308 0.1316 0.9847
+0.2000 0.3000 1.5708
+primID: 552
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 553
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 554
+start_pose_disc: 0 0 10
+end_pose_disc: 5 6 11
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1373 0.1401 0.8762
+0.2500 0.3000 1.1071
+primID: 555
+start_pose_disc: 0 0 10
+end_pose_disc: 5 6 12
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1567 0.1275 0.8790
+0.2500 0.3000 1.5708
+primID: 556
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 557
+start_pose_disc: 0 0 10
+end_pose_disc: 6 6 10
+additionalactioncostmult: 0.4243
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1500 0.1500 0.7854
+0.3000 0.3000 0.7854
+primID: 558
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 559
+start_pose_disc: 0 0 10
+end_pose_disc: 6 5 8
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1275 0.1567 0.6918
+0.3000 0.2500 0.0000
+primID: 560
+start_pose_disc: 0 0 10
+end_pose_disc: 6 5 9
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1401 0.1373 0.6946
+0.3000 0.2500 0.4636
+primID: 561
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 562
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 563
+start_pose_disc: 0 0 10
+end_pose_disc: 6 4 8
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1316 0.1308 0.5861
+0.3000 0.2000 0.0000
+primID: 564
+start_pose_disc: 0 0 10
+end_pose_disc: 6 4 9
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1418 0.1120 0.5881
+0.3000 0.2000 0.4636
+primID: 565
+start_pose_disc: 0 0 11
+end_pose_disc: 1 6 12
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0424 0.1468 1.4054
+0.0500 0.3000 1.5708
+primID: 566
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 567
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 568
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 569
+start_pose_disc: 0 0 11
+end_pose_disc: 2 6 12
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0676 0.1446 1.2493
+0.1000 0.3000 1.5708
+primID: 570
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 571
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 572
+start_pose_disc: 0 0 11
+end_pose_disc: 3 6 11
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0750 0.1500 1.1071
+0.1500 0.3000 1.1071
+primID: 573
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 574
+start_pose_disc: 0 0 11
+end_pose_disc: 4 6 9
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0765 0.1674 0.9815
+0.2000 0.3000 0.4636
+primID: 575
+start_pose_disc: 0 0 11
+end_pose_disc: 4 6 10
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0880 0.1582 0.9827
+0.2000 0.3000 0.7854
+primID: 576
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 577
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 578
+start_pose_disc: 0 0 11
+end_pose_disc: 5 6 9
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1011 0.1708 0.8755
+0.2500 0.3000 0.4636
+primID: 579
+start_pose_disc: 0 0 11
+end_pose_disc: 5 6 10
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1127 0.1599 0.8762
+0.2500 0.3000 0.7854
+primID: 580
+start_pose_disc: 0 0 12
+end_pose_disc: -2 6 13
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0324 0.1554 1.8922
+-0.1000 0.3000 2.0344
+primID: 581
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 582
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 583
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 584
+start_pose_disc: 0 0 12
+end_pose_disc: -1 6 13
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0076 0.1532 1.7362
+-0.0500 0.3000 2.0344
+primID: 585
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 586
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 587
+start_pose_disc: 0 0 12
+end_pose_disc: 0 6 12
+additionalactioncostmult: 0.3000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.1500 1.5708
+0.0000 0.3000 1.5708
+primID: 588
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 589
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 590
+start_pose_disc: 0 0 12
+end_pose_disc: 1 6 11
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0076 0.1532 1.4054
+0.0500 0.3000 1.1071
+primID: 591
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 592
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 593
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 594
+start_pose_disc: 0 0 12
+end_pose_disc: 2 6 11
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0324 0.1554 1.2493
+0.1000 0.3000 1.1071
+primID: 595
+start_pose_disc: 0 0 13
+end_pose_disc: -5 6 14
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1127 0.1599 2.2654
+-0.2500 0.3000 2.3562
+primID: 596
+start_pose_disc: 0 0 13
+end_pose_disc: -5 6 15
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1011 0.1708 2.2661
+-0.2500 0.3000 2.6779
+primID: 597
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 598
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 599
+start_pose_disc: 0 0 13
+end_pose_disc: -4 6 14
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0880 0.1582 2.1589
+-0.2000 0.3000 2.3562
+primID: 600
+start_pose_disc: 0 0 13
+end_pose_disc: -4 6 15
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0765 0.1674 2.1601
+-0.2000 0.3000 2.6779
+primID: 601
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 602
+start_pose_disc: 0 0 13
+end_pose_disc: -3 6 13
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0750 0.1500 2.0344
+-0.1500 0.3000 2.0344
+primID: 603
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 604
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 605
+start_pose_disc: 0 0 13
+end_pose_disc: -2 6 12
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0676 0.1446 1.8922
+-0.1000 0.3000 1.5708
+primID: 606
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 607
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 608
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 609
+start_pose_disc: 0 0 13
+end_pose_disc: -1 6 12
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0424 0.1468 1.7362
+-0.0500 0.3000 1.5708
+primID: 610
+start_pose_disc: 0 0 14
+end_pose_disc: -6 4 15
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1418 0.1120 2.5535
+-0.3000 0.2000 2.6779
+primID: 611
+start_pose_disc: 0 0 14
+end_pose_disc: -6 4 0
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1316 0.1308 2.5555
+-0.3000 0.2000 -3.1416
+primID: 612
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 613
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 614
+start_pose_disc: 0 0 14
+end_pose_disc: -6 5 15
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1401 0.1373 2.4470
+-0.3000 0.2500 2.6779
+primID: 615
+start_pose_disc: 0 0 14
+end_pose_disc: -6 5 0
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1275 0.1567 2.4498
+-0.3000 0.2500 -3.1416
+primID: 616
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 617
+start_pose_disc: 0 0 14
+end_pose_disc: -6 6 14
+additionalactioncostmult: 0.4243
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1500 0.1500 2.3562
+-0.3000 0.3000 2.3562
+primID: 618
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 619
+start_pose_disc: 0 0 14
+end_pose_disc: -5 6 12
+additionalactioncostmult: 0.4043
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1567 0.1275 2.2626
+-0.2500 0.3000 1.5708
+primID: 620
+start_pose_disc: 0 0 14
+end_pose_disc: -5 6 13
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1373 0.1401 2.2654
+-0.2500 0.3000 2.0344
+primID: 621
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 622
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 623
+start_pose_disc: 0 0 14
+end_pose_disc: -4 6 12
+additionalactioncostmult: 0.3714
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1308 0.1316 2.1569
+-0.2000 0.3000 1.5708
+primID: 624
+start_pose_disc: 0 0 14
+end_pose_disc: -4 6 13
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1120 0.1418 2.1589
+-0.2000 0.3000 2.0344
+primID: 625
+start_pose_disc: 0 0 15
+end_pose_disc: -6 1 0
+additionalactioncostmult: 0.3070
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1468 0.0424 2.9762
+-0.3000 0.0500 -3.1416
+primID: 626
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 627
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 628
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 629
+start_pose_disc: 0 0 15
+end_pose_disc: -6 2 0
+additionalactioncostmult: 0.3193
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1446 0.0676 2.8201
+-0.3000 0.1000 -3.1416
+primID: 630
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 631
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 632
+start_pose_disc: 0 0 15
+end_pose_disc: -6 3 15
+additionalactioncostmult: 0.3354
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1500 0.0750 2.6779
+-0.3000 0.1500 2.6779
+primID: 633
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 634
+start_pose_disc: 0 0 15
+end_pose_disc: -6 4 13
+additionalactioncostmult: 0.3682
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1674 0.0765 2.5523
+-0.3000 0.2000 2.0344
+primID: 635
+start_pose_disc: 0 0 15
+end_pose_disc: -6 4 14
+additionalactioncostmult: 0.3622
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1582 0.0880 2.5535
+-0.3000 0.2000 2.3562
+primID: 636
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 637
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 638
+start_pose_disc: 0 0 15
+end_pose_disc: -6 5 13
+additionalactioncostmult: 0.3977
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1708 0.1011 2.4463
+-0.3000 0.2500 2.0344
+primID: 639
+start_pose_disc: 0 0 15
+end_pose_disc: -6 5 14
+additionalactioncostmult: 0.3924
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1599 0.1127 2.4470
+-0.3000 0.2500 2.3562
+primID: 640
+start_pose_disc: 0 0 0
+end_pose_disc: -8 -2 1
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2057 -0.0267 -2.8967
+-0.4000 -0.1000 -2.6779
+primID: 641
+start_pose_disc: 0 0 0
+end_pose_disc: -8 -2 2
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2114 -0.0106 -2.8952
+-0.4000 -0.1000 -2.3562
+primID: 642
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 643
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 644
+start_pose_disc: 0 0 0
+end_pose_disc: -8 -1 1
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2035 -0.0018 -3.0169
+-0.4000 -0.0500 -2.6779
+primID: 645
+start_pose_disc: 0 0 0
+end_pose_disc: -8 -1 2
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2077 0.0144 -3.0146
+-0.4000 -0.0500 -2.3562
+primID: 646
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 647
+start_pose_disc: 0 0 0
+end_pose_disc: -8 0 0
+additionalactioncostmult: 0.4000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2000 -0.0000 -3.1416
+-0.4000 -0.0000 -3.1416
+primID: 648
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 649
+start_pose_disc: 0 0 0
+end_pose_disc: -8 1 14
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2077 -0.0144 3.0146
+-0.4000 0.0500 2.3562
+primID: 650
+start_pose_disc: 0 0 0
+end_pose_disc: -8 1 15
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2035 0.0018 3.0169
+-0.4000 0.0500 2.6779
+primID: 651
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 652
+start_pose_disc: 0 0 0
+end_pose_disc: 0 0 0
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+0.0000 0.0000 -3.1416
+primID: 653
+start_pose_disc: 0 0 0
+end_pose_disc: -8 2 14
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2114 0.0106 2.8952
+-0.4000 0.1000 2.3562
+primID: 654
+start_pose_disc: 0 0 0
+end_pose_disc: -8 2 15
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -3.1416
+-0.2057 0.0267 2.8967
+-0.4000 0.1000 2.6779
+primID: 655
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -6 2
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2120 -0.1338 -2.4981
+-0.4000 -0.3000 -2.3562
+primID: 656
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -6 3
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2255 -0.1184 -2.4972
+-0.4000 -0.3000 -2.0344
+primID: 657
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -6 4
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2479 -0.0976 -2.4909
+-0.4000 -0.3000 -1.5708
+primID: 658
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 659
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -5 2
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2103 -0.1090 -2.5829
+-0.4000 -0.2500 -2.3562
+primID: 660
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -5 3
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2221 -0.0938 -2.5815
+-0.4000 -0.2500 -2.0344
+primID: 661
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 662
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -4 1
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.2000 -0.1000 -2.6779
+-0.4000 -0.2000 -2.6779
+primID: 663
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 664
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 665
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -3 0
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1920 -0.0986 -2.7832
+-0.4000 -0.1500 -3.1416
+primID: 666
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 667
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 668
+start_pose_disc: 0 0 1
+end_pose_disc: 0 0 1
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+0.0000 0.0000 -2.6779
+primID: 669
+start_pose_disc: 0 0 1
+end_pose_disc: -8 -2 0
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -2.6779
+-0.1943 -0.0733 -2.8967
+-0.4000 -0.1000 -3.1416
+primID: 670
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -8 3
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1662 -0.1880 -2.2143
+-0.3000 -0.4000 -2.0344
+primID: 671
+start_pose_disc: 0 0 2
+end_pose_disc: -6 -8 4
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1916 -0.1728 -2.2119
+-0.3000 -0.4000 -1.5708
+primID: 672
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 673
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 674
+start_pose_disc: 0 0 2
+end_pose_disc: -7 -8 3
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1915 -0.1863 -2.2895
+-0.3500 -0.4000 -2.0344
+primID: 675
+start_pose_disc: 0 0 2
+end_pose_disc: -7 -8 4
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.2176 -0.1686 -2.2865
+-0.3500 -0.4000 -1.5708
+primID: 676
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 677
+start_pose_disc: 0 0 2
+end_pose_disc: -8 -8 2
+additionalactioncostmult: 0.5657
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.2000 -0.2000 -2.3562
+-0.4000 -0.4000 -2.3562
+primID: 678
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 679
+start_pose_disc: 0 0 2
+end_pose_disc: -8 -7 0
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1686 -0.2176 -2.4259
+-0.4000 -0.3500 -3.1416
+primID: 680
+start_pose_disc: 0 0 2
+end_pose_disc: -8 -7 1
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1863 -0.1915 -2.4229
+-0.4000 -0.3500 -2.6779
+primID: 681
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 682
+start_pose_disc: 0 0 2
+end_pose_disc: 0 0 2
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+0.0000 0.0000 -2.3562
+primID: 683
+start_pose_disc: 0 0 2
+end_pose_disc: -8 -6 0
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1728 -0.1916 -2.5005
+-0.4000 -0.3000 -3.1416
+primID: 684
+start_pose_disc: 0 0 2
+end_pose_disc: -8 -6 1
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -2.3562
+-0.1880 -0.1662 -2.4981
+-0.4000 -0.3000 -2.6779
+primID: 685
+start_pose_disc: 0 0 3
+end_pose_disc: -2 -8 4
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0733 -0.1943 -1.8157
+-0.1000 -0.4000 -1.5708
+primID: 686
+start_pose_disc: 0 0 3
+end_pose_disc: -2 -8 5
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0979 -0.1912 -1.8125
+-0.1000 -0.4000 -1.1071
+primID: 687
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 688
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 689
+start_pose_disc: 0 0 3
+end_pose_disc: -3 -8 4
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0986 -0.1920 -1.9291
+-0.1500 -0.4000 -1.5708
+primID: 690
+start_pose_disc: 0 0 3
+end_pose_disc: -3 -8 5
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1237 -0.1867 -1.9247
+-0.1500 -0.4000 -1.1071
+primID: 691
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 692
+start_pose_disc: 0 0 3
+end_pose_disc: -4 -8 3
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1000 -0.2000 -2.0344
+-0.2000 -0.4000 -2.0344
+primID: 693
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 694
+start_pose_disc: 0 0 3
+end_pose_disc: -5 -8 1
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0938 -0.2221 -2.1309
+-0.2500 -0.4000 -2.6779
+primID: 695
+start_pose_disc: 0 0 3
+end_pose_disc: -5 -8 2
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1090 -0.2103 -2.1295
+-0.2500 -0.4000 -2.3562
+primID: 696
+start_pose_disc: 0 0 3
+end_pose_disc: 0 0 3
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+0.0000 0.0000 -2.0344
+primID: 697
+start_pose_disc: 0 0 3
+end_pose_disc: -6 -8 0
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.0976 -0.2479 -2.2215
+-0.3000 -0.4000 -3.1416
+primID: 698
+start_pose_disc: 0 0 3
+end_pose_disc: -6 -8 1
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1184 -0.2255 -2.2152
+-0.3000 -0.4000 -2.6779
+primID: 699
+start_pose_disc: 0 0 3
+end_pose_disc: -6 -8 2
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -2.0344
+-0.1338 -0.2120 -2.2143
+-0.3000 -0.4000 -2.3562
+primID: 700
+start_pose_disc: 0 0 4
+end_pose_disc: 2 -8 5
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0267 -0.2057 -1.3259
+0.1000 -0.4000 -1.1071
+primID: 701
+start_pose_disc: 0 0 4
+end_pose_disc: 2 -8 6
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0106 -0.2114 -1.3244
+0.1000 -0.4000 -0.7854
+primID: 702
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 703
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 704
+start_pose_disc: 0 0 4
+end_pose_disc: 1 -8 5
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0018 -0.2035 -1.4461
+0.0500 -0.4000 -1.1071
+primID: 705
+start_pose_disc: 0 0 4
+end_pose_disc: 1 -8 6
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0144 -0.2077 -1.4438
+0.0500 -0.4000 -0.7854
+primID: 706
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 707
+start_pose_disc: 0 0 4
+end_pose_disc: 0 -8 4
+additionalactioncostmult: 0.4000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 -0.2000 -1.5708
+0.0000 -0.4000 -1.5708
+primID: 708
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 709
+start_pose_disc: 0 0 4
+end_pose_disc: -1 -8 2
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0144 -0.2077 -1.6978
+-0.0500 -0.4000 -2.3562
+primID: 710
+start_pose_disc: 0 0 4
+end_pose_disc: -1 -8 3
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0018 -0.2035 -1.6955
+-0.0500 -0.4000 -2.0344
+primID: 711
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 712
+start_pose_disc: 0 0 4
+end_pose_disc: 0 0 4
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+0.0000 0.0000 -1.5708
+primID: 713
+start_pose_disc: 0 0 4
+end_pose_disc: -2 -8 2
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0106 -0.2114 -1.8172
+-0.1000 -0.4000 -2.3562
+primID: 714
+start_pose_disc: 0 0 4
+end_pose_disc: -2 -8 3
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -1.5708
+-0.0267 -0.2057 -1.8157
+-0.1000 -0.4000 -2.0344
+primID: 715
+start_pose_disc: 0 0 5
+end_pose_disc: 6 -8 6
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1338 -0.2120 -0.9273
+0.3000 -0.4000 -0.7854
+primID: 716
+start_pose_disc: 0 0 5
+end_pose_disc: 6 -8 7
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1184 -0.2255 -0.9264
+0.3000 -0.4000 -0.4636
+primID: 717
+start_pose_disc: 0 0 5
+end_pose_disc: 6 -8 8
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0976 -0.2479 -0.9201
+0.3000 -0.4000 0.0000
+primID: 718
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 719
+start_pose_disc: 0 0 5
+end_pose_disc: 5 -8 6
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1090 -0.2103 -1.0121
+0.2500 -0.4000 -0.7854
+primID: 720
+start_pose_disc: 0 0 5
+end_pose_disc: 5 -8 7
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0938 -0.2221 -1.0107
+0.2500 -0.4000 -0.4636
+primID: 721
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 722
+start_pose_disc: 0 0 5
+end_pose_disc: 4 -8 5
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1000 -0.2000 -1.1071
+0.2000 -0.4000 -1.1071
+primID: 723
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 724
+start_pose_disc: 0 0 5
+end_pose_disc: 3 -8 3
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.1237 -0.1867 -1.2169
+0.1500 -0.4000 -2.0344
+primID: 725
+start_pose_disc: 0 0 5
+end_pose_disc: 3 -8 4
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0986 -0.1920 -1.2125
+0.1500 -0.4000 -1.5708
+primID: 726
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 727
+start_pose_disc: 0 0 5
+end_pose_disc: 0 0 5
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+0.0000 0.0000 -1.1071
+primID: 728
+start_pose_disc: 0 0 5
+end_pose_disc: 2 -8 3
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0979 -0.1912 -1.3291
+0.1000 -0.4000 -2.0344
+primID: 729
+start_pose_disc: 0 0 5
+end_pose_disc: 2 -8 4
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -1.1071
+0.0733 -0.1943 -1.3259
+0.1000 -0.4000 -1.5708
+primID: 730
+start_pose_disc: 0 0 6
+end_pose_disc: 8 -6 7
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1880 -0.1662 -0.6435
+0.4000 -0.3000 -0.4636
+primID: 731
+start_pose_disc: 0 0 6
+end_pose_disc: 8 -6 8
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1728 -0.1916 -0.6411
+0.4000 -0.3000 0.0000
+primID: 732
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 733
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 734
+start_pose_disc: 0 0 6
+end_pose_disc: 8 -7 7
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1863 -0.1915 -0.7187
+0.4000 -0.3500 -0.4636
+primID: 735
+start_pose_disc: 0 0 6
+end_pose_disc: 8 -7 8
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1686 -0.2176 -0.7157
+0.4000 -0.3500 0.0000
+primID: 736
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 737
+start_pose_disc: 0 0 6
+end_pose_disc: 8 -8 6
+additionalactioncostmult: 0.5657
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.2000 -0.2000 -0.7854
+0.4000 -0.4000 -0.7854
+primID: 738
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 739
+start_pose_disc: 0 0 6
+end_pose_disc: 7 -8 4
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.2176 -0.1686 -0.8551
+0.3500 -0.4000 -1.5708
+primID: 740
+start_pose_disc: 0 0 6
+end_pose_disc: 7 -8 5
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1915 -0.1863 -0.8521
+0.3500 -0.4000 -1.1071
+primID: 741
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 742
+start_pose_disc: 0 0 6
+end_pose_disc: 0 0 6
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+0.0000 0.0000 -0.7854
+primID: 743
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -8 4
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1916 -0.1728 -0.9297
+0.3000 -0.4000 -1.5708
+primID: 744
+start_pose_disc: 0 0 6
+end_pose_disc: 6 -8 5
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -0.7854
+0.1662 -0.1880 -0.9273
+0.3000 -0.4000 -1.1071
+primID: 745
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -2 8
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1943 -0.0733 -0.2449
+0.4000 -0.1000 0.0000
+primID: 746
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -2 9
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1912 -0.0979 -0.2417
+0.4000 -0.1000 0.4636
+primID: 747
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 748
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 749
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -3 8
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1920 -0.0986 -0.3583
+0.4000 -0.1500 0.0000
+primID: 750
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -3 9
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.1867 -0.1237 -0.3539
+0.4000 -0.1500 0.4636
+primID: 751
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 752
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -4 7
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2000 -0.1000 -0.4636
+0.4000 -0.2000 -0.4636
+primID: 753
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 754
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -5 5
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2221 -0.0938 -0.5601
+0.4000 -0.2500 -1.1071
+primID: 755
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -5 6
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2103 -0.1090 -0.5587
+0.4000 -0.2500 -0.7854
+primID: 756
+start_pose_disc: 0 0 7
+end_pose_disc: 0 0 7
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+0.0000 0.0000 -0.4636
+primID: 757
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -6 4
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2479 -0.0976 -0.6507
+0.4000 -0.3000 -1.5708
+primID: 758
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -6 5
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2255 -0.1184 -0.6444
+0.4000 -0.3000 -1.1071
+primID: 759
+start_pose_disc: 0 0 7
+end_pose_disc: 8 -6 6
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 -0.4636
+0.2120 -0.1338 -0.6435
+0.4000 -0.3000 -0.7854
+primID: 760
+start_pose_disc: 0 0 8
+end_pose_disc: 8 2 9
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2057 0.0267 0.2449
+0.4000 0.1000 0.4636
+primID: 761
+start_pose_disc: 0 0 8
+end_pose_disc: 8 2 10
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2114 0.0106 0.2464
+0.4000 0.1000 0.7854
+primID: 762
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 763
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 764
+start_pose_disc: 0 0 8
+end_pose_disc: 8 1 9
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2035 0.0018 0.1247
+0.4000 0.0500 0.4636
+primID: 765
+start_pose_disc: 0 0 8
+end_pose_disc: 8 1 10
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2077 -0.0144 0.1270
+0.4000 0.0500 0.7854
+primID: 766
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 767
+start_pose_disc: 0 0 8
+end_pose_disc: 8 0 8
+additionalactioncostmult: 0.4000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2000 0.0000 0.0000
+0.4000 0.0000 0.0000
+primID: 768
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 769
+start_pose_disc: 0 0 8
+end_pose_disc: 8 -1 6
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2077 0.0144 -0.1270
+0.4000 -0.0500 -0.7854
+primID: 770
+start_pose_disc: 0 0 8
+end_pose_disc: 8 -1 7
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2035 -0.0018 -0.1247
+0.4000 -0.0500 -0.4636
+primID: 771
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 772
+start_pose_disc: 0 0 8
+end_pose_disc: 0 0 8
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+0.0000 0.0000 0.0000
+primID: 773
+start_pose_disc: 0 0 8
+end_pose_disc: 8 -2 6
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2114 -0.0106 -0.2464
+0.4000 -0.1000 -0.7854
+primID: 774
+start_pose_disc: 0 0 8
+end_pose_disc: 8 -2 7
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 0.0000
+0.2057 -0.0267 -0.2449
+0.4000 -0.1000 -0.4636
+primID: 775
+start_pose_disc: 0 0 9
+end_pose_disc: 8 6 10
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2120 0.1338 0.6435
+0.4000 0.3000 0.7854
+primID: 776
+start_pose_disc: 0 0 9
+end_pose_disc: 8 6 11
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2255 0.1184 0.6444
+0.4000 0.3000 1.1071
+primID: 777
+start_pose_disc: 0 0 9
+end_pose_disc: 8 6 12
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2479 0.0976 0.6507
+0.4000 0.3000 1.5708
+primID: 778
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 779
+start_pose_disc: 0 0 9
+end_pose_disc: 8 5 10
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2103 0.1090 0.5587
+0.4000 0.2500 0.7854
+primID: 780
+start_pose_disc: 0 0 9
+end_pose_disc: 8 5 11
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2221 0.0938 0.5601
+0.4000 0.2500 1.1071
+primID: 781
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 782
+start_pose_disc: 0 0 9
+end_pose_disc: 8 4 9
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.2000 0.1000 0.4636
+0.4000 0.2000 0.4636
+primID: 783
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 784
+start_pose_disc: 0 0 9
+end_pose_disc: 8 3 7
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1867 0.1237 0.3539
+0.4000 0.1500 -0.4636
+primID: 785
+start_pose_disc: 0 0 9
+end_pose_disc: 8 3 8
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1920 0.0986 0.3583
+0.4000 0.1500 0.0000
+primID: 786
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 787
+start_pose_disc: 0 0 9
+end_pose_disc: 0 0 9
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+0.0000 0.0000 0.4636
+primID: 788
+start_pose_disc: 0 0 9
+end_pose_disc: 8 2 7
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1912 0.0979 0.2417
+0.4000 0.1000 -0.4636
+primID: 789
+start_pose_disc: 0 0 9
+end_pose_disc: 8 2 8
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 0.4636
+0.1943 0.0733 0.2449
+0.4000 0.1000 0.0000
+primID: 790
+start_pose_disc: 0 0 10
+end_pose_disc: 6 8 11
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1662 0.1880 0.9273
+0.3000 0.4000 1.1071
+primID: 791
+start_pose_disc: 0 0 10
+end_pose_disc: 6 8 12
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1916 0.1728 0.9297
+0.3000 0.4000 1.5708
+primID: 792
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 793
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 794
+start_pose_disc: 0 0 10
+end_pose_disc: 7 8 11
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1915 0.1863 0.8521
+0.3500 0.4000 1.1071
+primID: 795
+start_pose_disc: 0 0 10
+end_pose_disc: 7 8 12
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.2176 0.1686 0.8551
+0.3500 0.4000 1.5708
+primID: 796
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 797
+start_pose_disc: 0 0 10
+end_pose_disc: 8 8 10
+additionalactioncostmult: 0.5657
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.2000 0.2000 0.7854
+0.4000 0.4000 0.7854
+primID: 798
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 799
+start_pose_disc: 0 0 10
+end_pose_disc: 8 7 8
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1686 0.2176 0.7157
+0.4000 0.3500 0.0000
+primID: 800
+start_pose_disc: 0 0 10
+end_pose_disc: 8 7 9
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1863 0.1915 0.7187
+0.4000 0.3500 0.4636
+primID: 801
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 802
+start_pose_disc: 0 0 10
+end_pose_disc: 0 0 10
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+0.0000 0.0000 0.7854
+primID: 803
+start_pose_disc: 0 0 10
+end_pose_disc: 8 6 8
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1728 0.1916 0.6411
+0.4000 0.3000 0.0000
+primID: 804
+start_pose_disc: 0 0 10
+end_pose_disc: 8 6 9
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 0.7854
+0.1880 0.1662 0.6435
+0.4000 0.3000 0.4636
+primID: 805
+start_pose_disc: 0 0 11
+end_pose_disc: 2 8 12
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0733 0.1943 1.3259
+0.1000 0.4000 1.5708
+primID: 806
+start_pose_disc: 0 0 11
+end_pose_disc: 2 8 13
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0979 0.1912 1.3291
+0.1000 0.4000 2.0344
+primID: 807
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 808
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 809
+start_pose_disc: 0 0 11
+end_pose_disc: 3 8 12
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0986 0.1920 1.2125
+0.1500 0.4000 1.5708
+primID: 810
+start_pose_disc: 0 0 11
+end_pose_disc: 3 8 13
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1237 0.1867 1.2169
+0.1500 0.4000 2.0344
+primID: 811
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 812
+start_pose_disc: 0 0 11
+end_pose_disc: 4 8 11
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1000 0.2000 1.1071
+0.2000 0.4000 1.1071
+primID: 813
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 814
+start_pose_disc: 0 0 11
+end_pose_disc: 5 8 9
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0938 0.2221 1.0107
+0.2500 0.4000 0.4636
+primID: 815
+start_pose_disc: 0 0 11
+end_pose_disc: 5 8 10
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1090 0.2103 1.0121
+0.2500 0.4000 0.7854
+primID: 816
+start_pose_disc: 0 0 11
+end_pose_disc: 0 0 11
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+0.0000 0.0000 1.1071
+primID: 817
+start_pose_disc: 0 0 11
+end_pose_disc: 6 8 8
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.0976 0.2479 0.9201
+0.3000 0.4000 0.0000
+primID: 818
+start_pose_disc: 0 0 11
+end_pose_disc: 6 8 9
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1184 0.2255 0.9264
+0.3000 0.4000 0.4636
+primID: 819
+start_pose_disc: 0 0 11
+end_pose_disc: 6 8 10
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 1.1071
+0.1338 0.2120 0.9273
+0.3000 0.4000 0.7854
+primID: 820
+start_pose_disc: 0 0 12
+end_pose_disc: -2 8 13
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0267 0.2057 1.8157
+-0.1000 0.4000 2.0344
+primID: 821
+start_pose_disc: 0 0 12
+end_pose_disc: -2 8 14
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0106 0.2114 1.8172
+-0.1000 0.4000 2.3562
+primID: 822
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 823
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 824
+start_pose_disc: 0 0 12
+end_pose_disc: -1 8 13
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0018 0.2035 1.6955
+-0.0500 0.4000 2.0344
+primID: 825
+start_pose_disc: 0 0 12
+end_pose_disc: -1 8 14
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0144 0.2077 1.6978
+-0.0500 0.4000 2.3562
+primID: 826
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 827
+start_pose_disc: 0 0 12
+end_pose_disc: 0 8 12
+additionalactioncostmult: 0.4000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.2000 1.5708
+0.0000 0.4000 1.5708
+primID: 828
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 829
+start_pose_disc: 0 0 12
+end_pose_disc: 1 8 10
+additionalactioncostmult: 0.4165
+intermediateposes: 3
+0.0000 0.0000 1.5708
+-0.0144 0.2077 1.4438
+0.0500 0.4000 0.7854
+primID: 830
+start_pose_disc: 0 0 12
+end_pose_disc: 1 8 11
+additionalactioncostmult: 0.4072
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0018 0.2035 1.4461
+0.0500 0.4000 1.1071
+primID: 831
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 832
+start_pose_disc: 0 0 12
+end_pose_disc: 0 0 12
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+0.0000 0.0000 1.5708
+primID: 833
+start_pose_disc: 0 0 12
+end_pose_disc: 2 8 10
+additionalactioncostmult: 0.4240
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0106 0.2114 1.3244
+0.1000 0.4000 0.7854
+primID: 834
+start_pose_disc: 0 0 12
+end_pose_disc: 2 8 11
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 1.5708
+0.0267 0.2057 1.3259
+0.1000 0.4000 1.1071
+primID: 835
+start_pose_disc: 0 0 13
+end_pose_disc: -6 8 14
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1338 0.2120 2.2143
+-0.3000 0.4000 2.3562
+primID: 836
+start_pose_disc: 0 0 13
+end_pose_disc: -6 8 15
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1184 0.2255 2.2152
+-0.3000 0.4000 2.6779
+primID: 837
+start_pose_disc: 0 0 13
+end_pose_disc: -6 8 0
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0976 0.2479 2.2215
+-0.3000 0.4000 -3.1416
+primID: 838
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 839
+start_pose_disc: 0 0 13
+end_pose_disc: -5 8 14
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1090 0.2103 2.1295
+-0.2500 0.4000 2.3562
+primID: 840
+start_pose_disc: 0 0 13
+end_pose_disc: -5 8 15
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0938 0.2221 2.1309
+-0.2500 0.4000 2.6779
+primID: 841
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 842
+start_pose_disc: 0 0 13
+end_pose_disc: -4 8 13
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1000 0.2000 2.0344
+-0.2000 0.4000 2.0344
+primID: 843
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 844
+start_pose_disc: 0 0 13
+end_pose_disc: -3 8 11
+additionalactioncostmult: 0.4483
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.1237 0.1867 1.9247
+-0.1500 0.4000 1.1071
+primID: 845
+start_pose_disc: 0 0 13
+end_pose_disc: -3 8 12
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0986 0.1920 1.9291
+-0.1500 0.4000 1.5708
+primID: 846
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 847
+start_pose_disc: 0 0 13
+end_pose_disc: 0 0 13
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+0.0000 0.0000 2.0344
+primID: 848
+start_pose_disc: 0 0 13
+end_pose_disc: -2 8 11
+additionalactioncostmult: 0.4299
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0979 0.1912 1.8125
+-0.1000 0.4000 1.1071
+primID: 849
+start_pose_disc: 0 0 13
+end_pose_disc: -2 8 12
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 2.0344
+-0.0733 0.1943 1.8157
+-0.1000 0.4000 1.5708
+primID: 850
+start_pose_disc: 0 0 14
+end_pose_disc: -8 6 15
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1880 0.1662 2.4981
+-0.4000 0.3000 2.6779
+primID: 851
+start_pose_disc: 0 0 14
+end_pose_disc: -8 6 0
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1728 0.1916 2.5005
+-0.4000 0.3000 -3.1416
+primID: 852
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 853
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 854
+start_pose_disc: 0 0 14
+end_pose_disc: -8 7 15
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1863 0.1915 2.4229
+-0.4000 0.3500 2.6779
+primID: 855
+start_pose_disc: 0 0 14
+end_pose_disc: -8 7 0
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1686 0.2176 2.4259
+-0.4000 0.3500 -3.1416
+primID: 856
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 857
+start_pose_disc: 0 0 14
+end_pose_disc: -8 8 14
+additionalactioncostmult: 0.5657
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.2000 0.2000 2.3562
+-0.4000 0.4000 2.3562
+primID: 858
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 859
+start_pose_disc: 0 0 14
+end_pose_disc: -7 8 12
+additionalactioncostmult: 0.5510
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.2176 0.1686 2.2865
+-0.3500 0.4000 1.5708
+primID: 860
+start_pose_disc: 0 0 14
+end_pose_disc: -7 8 13
+additionalactioncostmult: 0.5343
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1915 0.1863 2.2895
+-0.3500 0.4000 2.0344
+primID: 861
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 862
+start_pose_disc: 0 0 14
+end_pose_disc: 0 0 14
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+0.0000 0.0000 2.3562
+primID: 863
+start_pose_disc: 0 0 14
+end_pose_disc: -6 8 12
+additionalactioncostmult: 0.5162
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1916 0.1728 2.2119
+-0.3000 0.4000 1.5708
+primID: 864
+start_pose_disc: 0 0 14
+end_pose_disc: -6 8 13
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 2.3562
+-0.1662 0.1880 2.2143
+-0.3000 0.4000 2.0344
+primID: 865
+start_pose_disc: 0 0 15
+end_pose_disc: -8 2 0
+additionalactioncostmult: 0.4160
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1943 0.0733 2.8967
+-0.4000 0.1000 -3.1416
+primID: 866
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 867
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 868
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 869
+start_pose_disc: 0 0 15
+end_pose_disc: -8 3 0
+additionalactioncostmult: 0.4317
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.1920 0.0986 2.7832
+-0.4000 0.1500 -3.1416
+primID: 870
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 871
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 872
+start_pose_disc: 0 0 15
+end_pose_disc: -8 4 15
+additionalactioncostmult: 0.4472
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2000 0.1000 2.6779
+-0.4000 0.2000 2.6779
+primID: 873
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 874
+start_pose_disc: 0 0 15
+end_pose_disc: -8 5 13
+additionalactioncostmult: 0.4824
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2221 0.0938 2.5815
+-0.4000 0.2500 2.0344
+primID: 875
+start_pose_disc: 0 0 15
+end_pose_disc: -8 5 14
+additionalactioncostmult: 0.4739
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2103 0.1090 2.5829
+-0.4000 0.2500 2.3562
+primID: 876
+start_pose_disc: 0 0 15
+end_pose_disc: 0 0 15
+additionalactioncostmult: 100.0000
+intermediateposes: 3
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+0.0000 0.0000 2.6779
+primID: 877
+start_pose_disc: 0 0 15
+end_pose_disc: -8 6 12
+additionalactioncostmult: 0.5333
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2479 0.0976 2.4909
+-0.4000 0.3000 1.5708
+primID: 878
+start_pose_disc: 0 0 15
+end_pose_disc: -8 6 13
+additionalactioncostmult: 0.5097
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2255 0.1184 2.4972
+-0.4000 0.3000 2.0344
+primID: 879
+start_pose_disc: 0 0 15
+end_pose_disc: -8 6 14
+additionalactioncostmult: 0.5022
+intermediateposes: 3
+0.0000 0.0000 2.6779
+-0.2120 0.1338 2.4981
+-0.4000 0.3000 2.3562

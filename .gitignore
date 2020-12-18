@@ -36,3 +36,5 @@ bin
 *.lai
 *.la
 *.a
+**/.idea
+**/cmake-build-debug

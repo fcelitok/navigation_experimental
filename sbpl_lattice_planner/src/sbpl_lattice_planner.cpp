@@ -88,6 +88,7 @@ SBPLLatticePlanner::SBPLLatticePlanner()
   : initialized_(false), costmap_ros_(NULL){
 }
 
+// only send name and costmap_ros object to initialize function down below
 SBPLLatticePlanner::SBPLLatticePlanner(std::string name, costmap_2d::Costmap2DROS* costmap_ros) 
   : initialized_(false), costmap_ros_(NULL){
   initialize(name, costmap_ros);
@@ -97,7 +98,6 @@ SBPLLatticePlanner::SBPLLatticePlanner(std::string name, costmap_2d::Costmap2DRO
 void SBPLLatticePlanner::initialize(std::string name, costmap_2d::Costmap2DROS* costmap_ros){
   if(!initialized_){
     ros::NodeHandle private_nh("~/"+name);
-
     ROS_INFO("Name is %s", name.c_str());
 
     private_nh.param("planner_type", planner_type_, string("ARAPlanner"));
@@ -198,6 +198,10 @@ void SBPLLatticePlanner::initialize(std::string name, costmap_2d::Costmap2DROS* 
       ROS_INFO("Planning with AD*");
       planner_ = new ADPlanner(env_, forward_search_);
     }
+    else if ("ANAPlanner" == planner_type_){      // TODO : add ANA planner
+        ROS_INFO("Planning with ANA*");
+        planner_ = new anaPlanner(env_, forward_search_);
+    }
     else{
       ROS_ERROR("ARAPlanner and ADPlanner are currently the only supported planners!\n");
       exit(1);
@@ -228,8 +232,8 @@ unsigned char SBPLLatticePlanner::costMapCostToSBPLCost(unsigned char newcost){
   }
 }
 
-void SBPLLatticePlanner::publishStats(int solution_cost, int solution_size, 
-                                      const geometry_msgs::PoseStamped& start, 
+void SBPLLatticePlanner::publishStats(int solution_cost, int solution_size,
+                                      const geometry_msgs::PoseStamped& start,
                                       const geometry_msgs::PoseStamped& goal){
   // Fill up statistics and publish
   sbpl_lattice_planner::SBPLLatticePlannerStats stats;
